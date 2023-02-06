@@ -48,8 +48,8 @@ h1, h3 {
   top: 0;
   right: 0px;
   border-radius: 500em;
-  background: rgba(105, 105, 105, 0.13);
-  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  background: rgb(17, 17, 17);
+  box-shadow: 0 15px 32px 0 rgba(0, 0, 0, 1);
   border: 3px solid rgb(0, 0, 0);
   z-index: 1;
   padding: 20em 2em;
